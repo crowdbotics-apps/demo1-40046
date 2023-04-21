@@ -14,7 +14,8 @@ const Untitled1Copy = () => {
 
 const styles = StyleSheet.create({
   safeArea: {
-    height: '100%'
+    height: '100%',
+    backgroundColor: "#bb8383"
   }
 });
 export default Untitled1Copy;
